@@ -1,0 +1,22 @@
+pt-BR:
+  current_locale: "Português do Brasil"
+  welcome: "Seja Bem-Vindo!"
+  messages:
+    welcome: "Este é o Crypto Wallet, sua carteira de crypto moedas."
+    menu: "Para começar selecione uma das opções abaixo:"
+    confirm: "Você tem certeza?"
+  links:
+    edit: "Editar"
+    show: "Mostrar"
+    delete: "Deletar"
+    new: "Novo"
+    back: "Voltar"
+  new:
+    coin: "Nova Moeda"
+    mining_type: "Novo Tipo de Mineração"
+  editing:
+    coin: "Editar Moeda"
+    mining_type: "Editar Tipo de Mineração"
+  showing:
+    coin: "Mostar Moeda"
+    mining_type: "Mostar Tipo de Mineração"
