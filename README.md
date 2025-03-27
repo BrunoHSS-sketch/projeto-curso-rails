@@ -1,24 +1,23 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Crypto Wallet
 
-Things you may want to cover:
+Projeto desenvolvido no curso do professor Jackson Pires, onde desenvolvemos uma carteira de criptomoedas onde é possivel criar, editar e excluir as moedas da sua carteira.
 
-* Ruby version
 
-* System dependencies
+## Instalação
 
-* Configuration
+Instale o projeto com bundle
 
-* Database creation
+```bash
+  bundle
+```
+**Tendo como dependecia Node.js, Yarn e Ruby**
+## Aprendizados
 
-* Database initialization
+Consegui por meio deste projeto entender melhor o conceito de arquitetura MVC, CRUD e boas práticas utilizando o Rails
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Autores
 
-* Deployment instructions
+- [@jacksonpires](https://github.com/jacksonpires)
 
-* ...
